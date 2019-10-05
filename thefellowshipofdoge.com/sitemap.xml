@@ -34,7 +34,7 @@
     <loc>https://thefellowshipofdoge.com/moon-pls</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2019-09-30</lastmod>
+    <lastmod>2019-10-01</lastmod>
     <image:image>
       <image:loc>https://static1.squarespace.com/static/5d590a4fd178ef00019f9fc3/t/5d5fc6756285b30001c9a6a9/1566557820594/green_lobster.png</image:loc>
       <image:title>ACT 2: The Hero's Journey</image:title>
@@ -75,7 +75,11 @@
     <loc>https://thefellowshipofdoge.com/the-set-up</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2019-09-30</lastmod>
+    <lastmod>2019-10-02</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5d590a4fd178ef00019f9fc3/t/5d9534baa1b7f822beab52c2/1570059453776/eminescu_wow.jpg</image:loc>
+      <image:title>Act 1 - The Set-Up</image:title>
+    </image:image>
     <image:image>
       <image:loc>https://static1.squarespace.com/static/5d590a4fd178ef00019f9fc3/t/5d8eb02c4e12d813b0ca369d/1569632307160/1dogelol.jpg</image:loc>
       <image:title>Act 1 - The Set-Up</image:title>
